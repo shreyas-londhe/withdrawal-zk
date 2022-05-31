@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mimcjs": "^1.0.5",
+    "snarkjs": "^0.4.19"
+  }
+}
