@@ -1,6 +1,6 @@
 pragma circom 2.0.4;
 
-include "./circomlib/circuits/mimc.circom";
+include "./utils/mimc.circom";
 
 template GetMerkleRoot(k){
 // k is depth of tree
