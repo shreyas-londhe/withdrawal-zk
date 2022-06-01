@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "merkletreejs": "^0.2.31",
     "mimcjs": "^1.0.5",
     "snarkjs": "^0.4.19"
   }
